@@ -1,15 +1,15 @@
 """
-Author: BENEDICT KARIUKI M.
-Date: September 15, 2024
-Description: A simple Rock, Paper, Scissors game where a user plays against the computer.
+    Author: BENEDICT KARIUKI M.
+    Date: September 15, 2024
+    Description: A simple Rock, Paper, Scissors game where a user plays against the computer.
              The game follows traditional rules, and the result is displayed after each round.
-
-Instructions:
-1. Run the script.
-2. Input your choice (Rock, Paper, or Scissors).
-3. The computer will randomly select a choice.
-4. The winner will be displayed based on the rules.
 """
+# Instructions:
+# 1. Run the script.
+# 2. Input your choice (Rock, Paper, or Scissors).
+# 3. The computer will randomly select a choice.
+# 4. The winner will be displayed based on the rules.
+
 
 import random
 
